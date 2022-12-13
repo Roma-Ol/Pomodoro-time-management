@@ -7,7 +7,6 @@
     "jsx": "react-jsx",
     "resolveJsonModule": true,
     "module": "es2022",
-    "rootDir": "src",
     "declaration": true,
     "allowSyntheticDefaultImports": true,
     "paths": {
